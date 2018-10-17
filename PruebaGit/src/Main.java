@@ -7,6 +7,7 @@ public class Main {
 	}
 	public static int Cuadrado(int x) {
 		return x*x;
+		adasd
 	}
 	
 	public static int max(int x, int y) {
